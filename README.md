@@ -1,2 +1,2 @@
 # oddinpay
-🛍️ Easy to use full featured API &amp; SDKs for payments, shipping and online store.
+🛍️ Easy to use full featured API & SDKs for oddin payments, shipping and online store.
