@@ -1,10 +1,16 @@
-> [!WARNING]  
+> [!WARNING]
+>
 > ## 🚧 Work in Progress
-> This project is currently under active development.  
+>
+> This project is currently under active development.
+
+<br>
 
 # oddinpay
 
 🛍️ Easy to use full featured API & SDKs for oddin payments, shipping and online store.
+
+<br>
 
 ## Example
 
