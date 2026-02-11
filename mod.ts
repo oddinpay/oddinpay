@@ -1,10 +1,13 @@
 /**
+ * @module
+ *
  * # OddinPay
  *
  * Simple payment SDK for OddinPay.
  *
  * ## Usage
  *
+ * @example
  * ```ts
  * import { createPayment } from "@oddinpay/oddinpay";
  *
@@ -16,5 +19,4 @@
  * console.log(checkoutLink);
  * ```
  *
- * @module
  */
