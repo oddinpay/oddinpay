@@ -15,4 +15,6 @@
  *
  * console.log(checkoutLink);
  * ```
+ *
+ * @module
  */
